@@ -4,7 +4,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=lucianobrsts&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<h2>Onde me encontar :alien:</h2>
+<h4>Onde me encontrar :alien:</h4>
 
 <p>
   <a href="https://dev.to/lucianobrsts">
@@ -24,25 +24,22 @@
   </a>
 </p>
 
-<h2>Minha Stack</h2>
+<p>
+<h4>Minha Stack </h4>
 
 <img height="50" align="left" alt="Java" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img height="50" align="left" alt="Spring" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
  <img height="50" align="left" alt="HTML" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img height="50" align="left" alt="Postgres" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
  <img height="50" align="left" alt="Git" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
+ </p>
+ 
+ <br />
+ <br />
 
-<!--
-**lucianobrsts/lucianobrsts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ---
+ <br />
+ <br />
+ <p>
+ ⭐️ From [@lucianobrsts](https://github.com/lucianobrsts)
+</p>

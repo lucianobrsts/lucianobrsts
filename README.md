@@ -1,4 +1,4 @@
-# Hello, Im Luciano!
+# Hello, I'm Luciano!
 
 - I am a programmer at Boavista Tecnologia
 - I am a java developer passionate about technology

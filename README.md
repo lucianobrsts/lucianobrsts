@@ -11,8 +11,15 @@
 - Learn Programming language theory and certification
 - Finish my personal projects
 
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+# My Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lucianobrsts&show_icons=true&hide_border=true)
 
+````bash
+> help --contact
+> Linkedin - lucianobrsts
+> GitLab - lucianobrsts
+> Instagram - lucianobrsts
+> Mail - lucianobrsts [at] @yahoo.com.br
+````
 ## Show ⭐ By Starring My Repos!

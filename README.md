@@ -1,14 +1,18 @@
-### Perfil em edição 👋
+# Hello, Im Luciano!
 
-<h4>Profile stats :musical_keyboard:</h4>
+- I am a programmer at Boavista Tecnologia
+- I am a java developer passionate about technology
+- My stacK: Java, Spring, Hibernate, JPA, JSF, Primefaces, PostgreSQL, MySQL, Maven, Git
+- Studying: JS, Angular
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=lucianobrsts&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+# Goals for 2022
+- Successfully make a programming language, no matter how big or small
+- Finish my work with high quality
+- Learn Programming language theory and certification
+- Finish my personal projects
 
----
-````bash
-> help --contact
-> linkedin: lucianobrsts
-> instagram: lucianobrsts
-> github: lucianobrsts
-> mailto: lucianobrsts [at] gmail.com
-````
+# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lucianobrsts&show_icons=true&hide_border=true)
+
+## Show ⭐ By Starring My Repos!

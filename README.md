@@ -22,4 +22,4 @@
 > Instagram - lucianobrsts
 > Mail - lucianobrsts [at] @yahoo.com.br
 ````
-## Show ⭐ By Starring My Repos!
+## Show ⭐ By Starring my Repos!

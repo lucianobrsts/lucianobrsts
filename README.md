@@ -5,7 +5,7 @@
 - My stacK: Java, Spring, Hibernate, JPA, JSF, Primefaces, PostgreSQL, MySQL, Maven, Git
 - Studying: JS, Angular
 
-# Goals for 2022
+# Goals for 2022!
 - Successfully make a programming language, no matter how big or small
 - Finish my work with high quality
 - Learn Programming language theory and certification

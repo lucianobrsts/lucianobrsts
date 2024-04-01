@@ -3,7 +3,7 @@
 - I am a programmer at Boavista Tecnologia
 - I am a java developer passionate about technology
 - My stacK: Java, Spring, Hibernate, JPA, JSF, Primefaces, PostgreSQL, MySQL, Maven, Git
-- Studying: JS, Angular
+- Studying: JS, React
 
 # Goals for 2022!
 - Successfully make a programming language, no matter how big or small
